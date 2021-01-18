@@ -13,7 +13,7 @@ Enjoy your Nomz,
 
 Michał
 
-<a href="https://michalkorzonek.com/?utm_source=nomz&utm_medium=website&utm_campaign=about" target="_blank">Website</a>  |  [Twitter](https://twitter.com/michalkorzonek)
+<a href="https://michalkorzonek.com/?utm_source=nomz&utm_medium=website&utm_campaign=about" target="_blank">Website</a>&nbsp|&nbsp[Twitter](https://twitter.com/michalkorzonek)
 
 ## Never Miss an Update
 
