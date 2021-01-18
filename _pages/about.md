@@ -19,4 +19,4 @@ Michał
 
 Subscribe to my [newsletter](https://mindjuggling.substack.com/?utm_source=nomz&utm_medium=website&utm_campaign=about) to hear about new recipes.
 
-
+<iframe src="https://mindjuggling.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
