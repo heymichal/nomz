@@ -8,7 +8,7 @@ tags: [easy, vegan, sugar-free, gluten-free]
 
 Easy, vegan, sugar-free, gluten-free.
 
-Salt compliments the richness of cocoa very well.
+The richness of cocoa accented with salt creates a deep, luscious taste that will satisfy any chocolate lover.
 
 ## Base:
 - 1 cup oat flour
