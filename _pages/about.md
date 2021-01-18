@@ -12,9 +12,9 @@ See tags for additional info (such as #sugar-free, #gluten-free, #raw, etc.)
 Enjoy your Nomz,
 
 Michał
-
+a
 ## Never Miss an Update
 
-Subscribe to my [newsletter](https://mindjuggling.com/?utm_source=nomz&utm_medium=website&utm_campaign=about) to hear about new recipes. 
+Subscribe to my [newsletter](https://mindjuggling.substack.com/?utm_source=nomz&utm_medium=website&utm_campaign=about) to hear about new recipes. 
 
 You can find more stuff I do [here](https://michalkorzonek.com/?utm_source=nomz&utm_medium=website&utm_campaign=about).
