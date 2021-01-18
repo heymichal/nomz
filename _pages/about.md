@@ -9,11 +9,11 @@ Every recipe is **vegan by default**.
 
 See tags for additional info (such as #sugar-free, #gluten-free, #raw, etc.)
 
-Enjoy your Nomz,
+**Enjoy your Nomz!**
 
 Michał
 
-<a href="https://michalkorzonek.com/?utm_source=nomz&utm_medium=website&utm_campaign=about" target="_blank">Website</a>&nbsp|&nbsp[Twitter](https://twitter.com/michalkorzonek)
+ps. For more things I'm up to check out my <a href="https://michalkorzonek.com/?utm_source=nomz&utm_medium=website&utm_campaign=about" target="_blank">website</a> and/or [Twitter](https://twitter.com/michalkorzonek).
 
 ## Never Miss an Update
 
