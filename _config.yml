@@ -1,14 +1,14 @@
-site: Sidey
-url: #yoururl
-title: Sidey
-description: Simple and minimalistic jekyll blogging theme.
+site: Nomz
+url: https://nomz.michalkorzonek.com
+title: Nomz
+description: Delicious vegan recipes.
 twitter:
-  username: #yourusername
+  username: @michalkorzonek
   card: summary
-  creator: #yourusername
+  creator: Michal Korzonek
 author:
-  twitter: #yourusername
-  name: #yourusername
+  twitter: @michalkorzonek
+  name: Michal Korzonek
   avatar:
   email: #youremail
   url: #yoururl
