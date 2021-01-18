@@ -13,7 +13,7 @@ See tags for additional info (such as #sugar-free, #gluten-free, #raw, etc.)
 
 Michał
 
-ps. For more things I'm up to check out my <a href="https://michalkorzonek.com/?utm_source=nomz&utm_medium=website&utm_campaign=about" target="_blank">website</a> and/or [Twitter](https://twitter.com/michalkorzonek).
+ps. For more stuff check out my <a href="https://michalkorzonek.com/?utm_source=nomz&utm_medium=website&utm_campaign=about" target="_blank">website</a> and/or <a href="https://twitter.com/michalkorzonek" target="_blank">twitter</a>.
 
 ## Never Miss an Update
 
