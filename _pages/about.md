@@ -11,8 +11,9 @@ See tags for additional info (such as #sugar-free, #gluten-free, #raw, etc.)
 
 Enjoy your Nomz,
 
-Michał 
-[Website](https://michalkorzonek.com/?utm_source=nomz&utm_medium=website&utm_campaign=about) | [Twitter](https://twitter.com/michalkorzonek)
+Michał
+
+<a href="https://michalkorzonek.com/?utm_source=nomz&utm_medium=website&utm_campaign=about" target="_blank">Website</a> | [Twitter](https://twitter.com/michalkorzonek)
 
 ## Never Miss an Update
 
