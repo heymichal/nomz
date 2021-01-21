@@ -9,6 +9,20 @@ Every recipe is **vegan by default**.
 
 See tags for additional info (such as #sugar-free, #gluten-free, #raw, etc.)
 
+When it comes to desserts, **I follow three principles**:
+
+**1. Never follow a recipe**.
+
+Substitute, experiment, make tweaks as you see fit. Every dessert prep is an opportunity to improve on the previous version.
+
+**2. 50% of taste is in presentation**
+
+Desserts are experiences, consumed not only with our mouths but also our eyes. Make sure you feed both.
+
+**3. Get your hands dirty**
+
+Always mix the dough with your hands, so you can feel the consistency or your dessert.
+
 **Enjoy your Nomz!**
 
 Michał

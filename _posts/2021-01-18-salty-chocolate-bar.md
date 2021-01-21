@@ -8,7 +8,7 @@ tags: [easy, vegan, sugar-free, gluten-free]
 The richness of cocoa accented with salt creates a deep, luscious taste that will satisfy any chocolate lover.
 
 Type: Base + Filling + (optional) Topping
-Tech: Oven, Freezer
+Tools: Oven, Freezer
 Tags: easy, vegan, sugar-free, gluten-free
 
 **Ingredients:** oat flour (1 cup), coconut oil (1/2 cup), dates (1/2 cup), banana (1), salt, fat coconut milk (300g), cooking chocolate 85% cocoa (200g), agave sirup (1/4 cup), chia seeds (1/2 cup).
