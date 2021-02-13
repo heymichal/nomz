@@ -8,9 +8,9 @@ tags: [vegan, sugar-free, gluten-free]
 
 Delicious and rich coconut taste boosted with salty base.
 
-Type: Base + Filling
-Tools: Oven, stove, pan, mixing bowl
-Tags: Vegan, sugar-free, gluten-free
+Type: Base + Filling <br>
+Tools: Oven, stove, pan, mixing bowl <br>
+Tags: Vegan, sugar-free, gluten-free <br>
 
 **Ingredients:**
 Base: 2c oats, 2c shreaded almonds, 1c melted coconut oil, salt
