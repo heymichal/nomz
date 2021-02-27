@@ -8,8 +8,8 @@ tags: [vegan, no-bake, sugar-free, gluten-free]
 
 Summery, fruity cake with a salty base.
 
-Type: <br>
-Tools: <br>
+Type: base + filling<br>
+Tools: blender, freezer, mixing bowl<br>
 Tags: vegan, no-bake, sugar-free, gluten-free<br>
 
 **Ingredients:**
