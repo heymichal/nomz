@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Spicy Choco Brownie
+title: Cayenne Brownie
 description: Delicious chocolate brownie with a spice.
 summary: Delicious chocolate brownie with a spice.
 tags: [vegan, easy, gluten-free]
