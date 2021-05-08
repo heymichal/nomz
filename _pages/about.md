@@ -27,7 +27,7 @@ Always mix the dough with your hands, so you can feel the consistency or your de
 
 Michał
 
-ps. For more stuff check out my <a href="https://michalkorzonek.com/?utm_source=nomz&utm_medium=website&utm_campaign=about" target="_blank">website</a> and/or <a href="https://twitter.com/michalkorzonek" target="_blank">twitter</a>.
+ps. For more stuff check out <a href="https://thewhitelog.com/?utm_source=nomz&utm_medium=website&utm_campaign=about" target="_blank">The White Log</a>,  my <a href="https://michalkorzonek.com/?utm_source=nomz&utm_medium=website&utm_campaign=about" target="_blank">website</a> and/or <a href="https://twitter.com/michalkorzonek" target="_blank">twitter</a>. If you'd like to support the Nomz, you can do that via <a href="https://patreon.com/michalandsilvia" target="_blank">Patreon</a>.
 
 ## Never Miss an Update
 
